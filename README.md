@@ -29,3 +29,6 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Walkthrough Video
+
+https://github.com/BrayMurph/ECommerce-BackEnd/assets/130401538/40b64794-d00e-42b9-8955-6f978bde8f5a
+
